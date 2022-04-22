@@ -7932,4 +7932,3 @@ function(a) {
     };
     b.plugin("markers", d)
 }(jQuery, window.videojs);
-nn
